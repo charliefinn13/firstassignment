@@ -20,7 +20,7 @@
 
   
 
-<p>Hey everyone! I’m a 28-year-old rural kid that’s moved to the big city (Melbourne) about 6-7 years ago. I finished year 11 in high school (much regret) and haven’t studied since then (going on 11 years now). I was diagnosed with type one <i>diabetes</i> when I was 4 years old, been in and out of hospital a few times since but I’m finally on my way to getting my BSL sorted. I’ve also been struggling with a whole lotta mental illness’ since around the age of 14, which is why I’ve struggled with keeping my diabetes in check.</p> 
+<p>Hey everyone! I’m a 28-year-old rural kid that’s moved to the big city (Melbourne) about 6-7 years ago. I finished year 11 in high school (much regret) and haven’t studied since then (going on 11 years now). I was diagnosed with type one <i>diabetes</i> when I was 4 years old, been in and out of hospital a few times since but I’m finally on my way to getting my BSL sorted. I’ve also been struggling with a whole lotta mental illness’ since around the age of 14, which is why I’ve struggled with keeping my diabetes in check.
 
   
 
