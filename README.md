@@ -8,7 +8,7 @@
 
   
 
-<h2 style="color:CDE7BE;">Personal Information</h2> 
+<h2 style="colour:CDE7BE;">Personal Information</h2> 
 
   
 
@@ -24,11 +24,11 @@
 
   
 
-I’ve recently gotten into Pokémon card collecting and although I have quite a few boxes of binders (plus an uncontrollable amount of bulk cards) I’ve hardly scratched the surface of <i>‘catching them all’</i>. As a kid I played a lot of Yu-gi-oh with friends but wasn’t expose to any other trading card games. I was raised on a PlayStation 1 so even the realm of Nintendo wasn’t a thing for me growing up. Since then, I’ve leveled up and scored myself a switch and am finally in the world of Zelda and Mario games. Since a kid I’ve found the calming aspect to gaming, taking myself out of the current real life reality and either pretending I was this super <i>fantastic</i> skateboarder like Tony Hawk or Dave Mirra doing double backflips.</p> 
+I’ve recently gotten into Pokémon card collecting and although I have quite a few boxes of binders (plus an uncontrollable amount of bulk cards) I’ve hardly scratched the surface of <i>‘catching them all’</i>. As a kid I played a lot of Yu-gi-oh with friends but wasn’t expose to any other trading card games. I was raised on a PlayStation 1 so even the realm of Nintendo wasn’t a thing for me growing up. Since then, I’ve leveled up and scored myself a switch and am finally in the world of Zelda and Mario games. Since a kid I’ve found the calming aspect to gaming, taking myself out of the current real life reality and either pretending I was this super <i>fantastic</i> skateboarder like Tony Hawk or Dave Mirra doing double backflips.
 
   
 
-<h2 style="color:CDE7BE;"><b>Interest in IT</b></h2> 
+<h2 style="colour:CDE7BE;"><b>Interest in IT</b></h2> 
 
 <p>As I mentioned above, my <i>first</i> exposure to technology (besides the TV itself) was video game consoles. I never really questioned how they were made but I was really interested in creating skateparks and areas to use in the games I played, sparking an interest. I liked the idea of control over something I created and then using it the way I felt it was meant to be. Not long after HDMI was introduced, I found myself to be the one in the household to be changing and finding certain cords to do certain things. I liked the idea of playing around with something to figure out what setting was the best, and then seeing the look on my mum's face when she assumed I was performing magic as it made no sense to her.</p> 
 
@@ -42,7 +42,7 @@ I’ve recently gotten into Pokémon card collecting and although I have quite a
 
   
 
-<h2 style="color:CDE7BE;"><b>Ideal Job</b></h2> 
+<h2 style="colour:CDE7BE;"><b>Ideal Job</b></h2> 
 
 <p>Computer Workshop Technician</p> 
 
@@ -64,7 +64,7 @@ I’ve recently gotten into Pokémon card collecting and although I have quite a
 
   
 
-<h2 style="color:CDE7BE;"><b>Personal profile</b></h2> 
+<h2 style="colour:CDE7BE;"><b>Personal profile</b></h2> 
 
 <p>16 personality results</p> 
 
@@ -98,7 +98,7 @@ I’ve recently gotten into Pokémon card collecting and although I have quite a
 
   
 
-<h2 style="color:CDE7BE;"><b>Project Idea</b></h2> 
+<h2 style="colour:CDE7BE;"><b>Project Idea</b></h2> 
 
 <p>With the concept of scanning items, you’ll be given an array of information based on how many carbohydrates are involved in eating certain things. This will then translate into the insulin needed for the amount you enter into the application. Every 15g of carbs equals 1 unit on insulin, which is quite a straight forward request, although when there’s more than one ingredient (some being less than 15g), it can be quite daunting to calculate and think about what you’re eating. By entering the amounts of all ingredients, the app will produce a table of what you’re intaking (e.g % of Carbs, % of sugars etc.).</p>  
 
